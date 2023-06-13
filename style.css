@@ -1,0 +1,27 @@
+h1 {
+  color: blue;
+}
+.bluefont {
+  color: red;
+}
+body {
+  background: #CAFFB9;
+  color: black;
+  text-align: center;
+}
+.profile-img {
+  width: 20%;
+  border-radius: 50%;
+}
+.btn {
+  display: block;
+  color: black;
+  padding: 30px;
+  background: white;
+  margin: 16px;
+  box-shadow:10px 10px 5px lightblue;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
